@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\andri\source\repos\CarRace\CarRace\main.cpp(138,25): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+C:\Users\andri\source\repos\CarRace\CarRace\main.cpp(149,25): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+C:\Users\andri\source\repos\CarRace\CarRace\main.cpp(166,24): warning C4584: Game: базовый класс "Position" уже является базовым классом для "Car"
+C:\Users\andri\source\repos\CarRace\CarRace\main.cpp(18): message : см. объявление "Position"
+C:\Users\andri\source\repos\CarRace\CarRace\main.cpp(73): message : см. объявление "Car"
+C:\Users\andri\source\repos\CarRace\CarRace\main.cpp(166,24): warning C4584: Game: базовый класс "Position" уже является базовым классом для "Enemy"
+C:\Users\andri\source\repos\CarRace\CarRace\main.cpp(18): message : см. объявление "Position"
+C:\Users\andri\source\repos\CarRace\CarRace\main.cpp(117): message : см. объявление "Enemy"
+C:\Users\andri\source\repos\CarRace\CarRace\main.cpp(166,24): warning C4584: Game: базовый класс "Position" уже является базовым классом для "Map"
+C:\Users\andri\source\repos\CarRace\CarRace\main.cpp(18): message : см. объявление "Position"
+C:\Users\andri\source\repos\CarRace\CarRace\main.cpp(46): message : см. объявление "Map"
+  CarRace.vcxproj -> C:\Users\andri\source\repos\CarRace\Debug\CarRace.exe
